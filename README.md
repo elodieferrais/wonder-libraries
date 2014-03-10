@@ -15,7 +15,7 @@ repositories {
 }
 ```
 
-##square_progressbar
+##Square ProgressBar
 
 last update: March 6th 2014
 
@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-##HeaderListView
+##Header ListView
 last update: March 9th 2014
 
 github repo:[headerlistview](https://github.com/applidium/HeaderListView)
