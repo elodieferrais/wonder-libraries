@@ -4,7 +4,7 @@ Useful dependancies
 
 
 
-*** To use those libraires, you have to add this maven repo in the build.gradle of your project and the dependency of the library you want to use***
+***To use those libraires, you have to add this maven repo in the build.gradle of your project and the dependency of the library you want to use***
 
 ```javascript
 repositories {
